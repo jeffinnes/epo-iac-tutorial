@@ -1,5 +1,5 @@
 {
-  "name": "argocd_iac_demo",
+  "name": "argocd-iac-demo",
   "version": "0.1.0",
   "private": true,
   "scripts": {
