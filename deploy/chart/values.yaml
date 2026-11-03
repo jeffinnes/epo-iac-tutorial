@@ -1,0 +1,4 @@
+image:
+  repository: argocd_iac_demo
+  tag: latest
+  pullPolicy: IfNotPresent
